@@ -1,0 +1,1001 @@
+image_path,label
+test_dataset/img_0.png,"[('circle', 'red')]"
+test_dataset/img_1.png,"[('circle', 'red')]"
+test_dataset/img_2.png,"[('circle', 'green'), ('circle', 'red')]"
+test_dataset/img_3.png,"[('circle', 'blue'), ('triangle', 'red'), ('triangle', 'blue')]"
+test_dataset/img_4.png,"[('square', 'green')]"
+test_dataset/img_5.png,"[('circle', 'red')]"
+test_dataset/img_6.png,"[('triangle', 'red'), ('circle', 'green')]"
+test_dataset/img_7.png,"[('triangle', 'blue'), ('square', 'red')]"
+test_dataset/img_8.png,"[('triangle', 'blue')]"
+test_dataset/img_9.png,"[('square', 'red')]"
+test_dataset/img_10.png,[]
+test_dataset/img_11.png,"[('triangle', 'red')]"
+test_dataset/img_12.png,"[('triangle', 'green'), ('triangle', 'red')]"
+test_dataset/img_13.png,"[('triangle', 'green')]"
+test_dataset/img_14.png,"[('triangle', 'green')]"
+test_dataset/img_15.png,"[('square', 'blue')]"
+test_dataset/img_16.png,"[('square', 'blue')]"
+test_dataset/img_17.png,"[('triangle', 'green')]"
+test_dataset/img_18.png,"[('square', 'green')]"
+test_dataset/img_19.png,"[('triangle', 'red')]"
+test_dataset/img_20.png,"[('circle', 'green')]"
+test_dataset/img_21.png,"[('circle', 'green')]"
+test_dataset/img_22.png,[]
+test_dataset/img_23.png,"[('square', 'blue')]"
+test_dataset/img_24.png,"[('circle', 'red')]"
+test_dataset/img_25.png,[]
+test_dataset/img_26.png,"[('square', 'green')]"
+test_dataset/img_27.png,"[('triangle', 'green')]"
+test_dataset/img_28.png,[]
+test_dataset/img_29.png,"[('square', 'green')]"
+test_dataset/img_30.png,"[('triangle', 'blue'), ('square', 'blue')]"
+test_dataset/img_31.png,[]
+test_dataset/img_32.png,[]
+test_dataset/img_33.png,[]
+test_dataset/img_34.png,"[('circle', 'red')]"
+test_dataset/img_35.png,"[('square', 'green'), ('circle', 'green')]"
+test_dataset/img_36.png,"[('square', 'red')]"
+test_dataset/img_37.png,"[('circle', 'blue'), ('triangle', 'red')]"
+test_dataset/img_38.png,"[('square', 'red'), ('circle', 'green')]"
+test_dataset/img_39.png,[]
+test_dataset/img_40.png,"[('triangle', 'green')]"
+test_dataset/img_41.png,[]
+test_dataset/img_42.png,"[('square', 'blue')]"
+test_dataset/img_43.png,"[('square', 'blue'), ('square', 'green'), ('circle', 'green'), ('triangle', 'green')]"
+test_dataset/img_44.png,"[('square', 'red'), ('triangle', 'blue')]"
+test_dataset/img_45.png,"[('circle', 'blue')]"
+test_dataset/img_46.png,"[('square', 'green')]"
+test_dataset/img_47.png,"[('circle', 'blue')]"
+test_dataset/img_48.png,[]
+test_dataset/img_49.png,"[('circle', 'blue'), ('triangle', 'green')]"
+test_dataset/img_50.png,"[('square', 'green')]"
+test_dataset/img_51.png,"[('square', 'green')]"
+test_dataset/img_52.png,"[('circle', 'blue')]"
+test_dataset/img_53.png,"[('square', 'green')]"
+test_dataset/img_54.png,"[('square', 'green')]"
+test_dataset/img_55.png,"[('circle', 'green')]"
+test_dataset/img_56.png,"[('circle', 'green'), ('triangle', 'red'), ('circle', 'blue')]"
+test_dataset/img_57.png,"[('square', 'green')]"
+test_dataset/img_58.png,"[('square', 'blue')]"
+test_dataset/img_59.png,"[('triangle', 'red')]"
+test_dataset/img_60.png,"[('circle', 'blue')]"
+test_dataset/img_61.png,"[('triangle', 'blue')]"
+test_dataset/img_62.png,"[('square', 'blue'), ('triangle', 'red')]"
+test_dataset/img_63.png,"[('square', 'green')]"
+test_dataset/img_64.png,"[('square', 'red')]"
+test_dataset/img_65.png,[]
+test_dataset/img_66.png,"[('triangle', 'blue')]"
+test_dataset/img_67.png,[]
+test_dataset/img_68.png,"[('square', 'red'), ('square', 'red')]"
+test_dataset/img_69.png,"[('triangle', 'red')]"
+test_dataset/img_70.png,"[('square', 'blue')]"
+test_dataset/img_71.png,"[('square', 'blue')]"
+test_dataset/img_72.png,[]
+test_dataset/img_73.png,"[('triangle', 'green')]"
+test_dataset/img_74.png,"[('triangle', 'green')]"
+test_dataset/img_75.png,[]
+test_dataset/img_76.png,[]
+test_dataset/img_77.png,"[('square', 'red')]"
+test_dataset/img_78.png,"[('triangle', 'blue')]"
+test_dataset/img_79.png,"[('triangle', 'blue'), ('square', 'green'), ('circle', 'red')]"
+test_dataset/img_80.png,"[('triangle', 'red'), ('circle', 'blue')]"
+test_dataset/img_81.png,"[('square', 'red')]"
+test_dataset/img_82.png,[]
+test_dataset/img_83.png,[]
+test_dataset/img_84.png,"[('circle', 'blue'), ('circle', 'green')]"
+test_dataset/img_85.png,"[('circle', 'blue')]"
+test_dataset/img_86.png,[]
+test_dataset/img_87.png,"[('square', 'blue')]"
+test_dataset/img_88.png,"[('triangle', 'blue')]"
+test_dataset/img_89.png,[]
+test_dataset/img_90.png,"[('square', 'green')]"
+test_dataset/img_91.png,"[('triangle', 'green'), ('square', 'red')]"
+test_dataset/img_92.png,"[('circle', 'blue')]"
+test_dataset/img_93.png,"[('triangle', 'red')]"
+test_dataset/img_94.png,"[('square', 'blue')]"
+test_dataset/img_95.png,"[('circle', 'green'), ('triangle', 'red')]"
+test_dataset/img_96.png,"[('triangle', 'blue')]"
+test_dataset/img_97.png,[]
+test_dataset/img_98.png,"[('square', 'green'), ('circle', 'green')]"
+test_dataset/img_99.png,"[('triangle', 'green')]"
+test_dataset/img_100.png,"[('square', 'green'), ('square', 'green')]"
+test_dataset/img_101.png,"[('circle', 'red')]"
+test_dataset/img_102.png,"[('triangle', 'blue')]"
+test_dataset/img_103.png,"[('circle', 'blue')]"
+test_dataset/img_104.png,"[('circle', 'red')]"
+test_dataset/img_105.png,[]
+test_dataset/img_106.png,[]
+test_dataset/img_107.png,"[('triangle', 'blue')]"
+test_dataset/img_108.png,"[('circle', 'green')]"
+test_dataset/img_109.png,"[('circle', 'green')]"
+test_dataset/img_110.png,"[('triangle', 'red')]"
+test_dataset/img_111.png,"[('square', 'green')]"
+test_dataset/img_112.png,[]
+test_dataset/img_113.png,"[('circle', 'green'), ('triangle', 'green'), ('square', 'blue')]"
+test_dataset/img_114.png,"[('circle', 'red')]"
+test_dataset/img_115.png,"[('square', 'green')]"
+test_dataset/img_116.png,"[('square', 'green')]"
+test_dataset/img_117.png,"[('circle', 'green')]"
+test_dataset/img_118.png,"[('triangle', 'green')]"
+test_dataset/img_119.png,[]
+test_dataset/img_120.png,"[('triangle', 'red')]"
+test_dataset/img_121.png,"[('triangle', 'green')]"
+test_dataset/img_122.png,"[('square', 'red')]"
+test_dataset/img_123.png,[]
+test_dataset/img_124.png,"[('square', 'green')]"
+test_dataset/img_125.png,[]
+test_dataset/img_126.png,"[('triangle', 'blue')]"
+test_dataset/img_127.png,"[('square', 'green')]"
+test_dataset/img_128.png,[]
+test_dataset/img_129.png,"[('square', 'green')]"
+test_dataset/img_130.png,"[('circle', 'red'), ('square', 'green')]"
+test_dataset/img_131.png,"[('circle', 'green'), ('square', 'red')]"
+test_dataset/img_132.png,"[('triangle', 'green')]"
+test_dataset/img_133.png,[]
+test_dataset/img_134.png,[]
+test_dataset/img_135.png,[]
+test_dataset/img_136.png,"[('triangle', 'red')]"
+test_dataset/img_137.png,"[('triangle', 'blue'), ('triangle', 'green')]"
+test_dataset/img_138.png,"[('triangle', 'green')]"
+test_dataset/img_139.png,"[('square', 'red')]"
+test_dataset/img_140.png,"[('circle', 'green')]"
+test_dataset/img_141.png,"[('square', 'blue')]"
+test_dataset/img_142.png,"[('circle', 'green')]"
+test_dataset/img_143.png,"[('square', 'blue')]"
+test_dataset/img_144.png,"[('square', 'blue')]"
+test_dataset/img_145.png,"[('triangle', 'blue'), ('triangle', 'red')]"
+test_dataset/img_146.png,"[('triangle', 'blue'), ('circle', 'green')]"
+test_dataset/img_147.png,"[('square', 'green'), ('circle', 'blue')]"
+test_dataset/img_148.png,[]
+test_dataset/img_149.png,"[('square', 'blue'), ('circle', 'blue')]"
+test_dataset/img_150.png,[]
+test_dataset/img_151.png,"[('triangle', 'blue'), ('circle', 'green')]"
+test_dataset/img_152.png,[]
+test_dataset/img_153.png,"[('square', 'red')]"
+test_dataset/img_154.png,"[('circle', 'green')]"
+test_dataset/img_155.png,"[('square', 'red'), ('triangle', 'blue')]"
+test_dataset/img_156.png,[]
+test_dataset/img_157.png,"[('square', 'green')]"
+test_dataset/img_158.png,[]
+test_dataset/img_159.png,"[('circle', 'red')]"
+test_dataset/img_160.png,"[('square', 'green')]"
+test_dataset/img_161.png,"[('triangle', 'green')]"
+test_dataset/img_162.png,[]
+test_dataset/img_163.png,"[('square', 'green'), ('triangle', 'green')]"
+test_dataset/img_164.png,"[('square', 'green'), ('square', 'red')]"
+test_dataset/img_165.png,"[('triangle', 'green'), ('square', 'red')]"
+test_dataset/img_166.png,[]
+test_dataset/img_167.png,"[('triangle', 'green'), ('circle', 'green')]"
+test_dataset/img_168.png,"[('triangle', 'green'), ('triangle', 'red')]"
+test_dataset/img_169.png,[]
+test_dataset/img_170.png,[]
+test_dataset/img_171.png,"[('circle', 'red')]"
+test_dataset/img_172.png,[]
+test_dataset/img_173.png,[]
+test_dataset/img_174.png,"[('circle', 'red'), ('circle', 'green')]"
+test_dataset/img_175.png,"[('circle', 'green'), ('triangle', 'red'), ('triangle', 'green')]"
+test_dataset/img_176.png,[]
+test_dataset/img_177.png,"[('triangle', 'blue')]"
+test_dataset/img_178.png,"[('circle', 'red'), ('square', 'red'), ('circle', 'blue')]"
+test_dataset/img_179.png,"[('circle', 'green')]"
+test_dataset/img_180.png,"[('square', 'blue')]"
+test_dataset/img_181.png,[]
+test_dataset/img_182.png,"[('triangle', 'blue')]"
+test_dataset/img_183.png,"[('square', 'green'), ('triangle', 'blue')]"
+test_dataset/img_184.png,"[('circle', 'blue'), ('square', 'green'), ('square', 'green')]"
+test_dataset/img_185.png,"[('circle', 'red')]"
+test_dataset/img_186.png,"[('circle', 'blue')]"
+test_dataset/img_187.png,"[('triangle', 'blue')]"
+test_dataset/img_188.png,"[('triangle', 'green')]"
+test_dataset/img_189.png,[]
+test_dataset/img_190.png,"[('square', 'green'), ('triangle', 'blue')]"
+test_dataset/img_191.png,[]
+test_dataset/img_192.png,[]
+test_dataset/img_193.png,"[('circle', 'blue'), ('triangle', 'red')]"
+test_dataset/img_194.png,"[('square', 'green')]"
+test_dataset/img_195.png,"[('circle', 'red')]"
+test_dataset/img_196.png,"[('square', 'green')]"
+test_dataset/img_197.png,"[('square', 'green')]"
+test_dataset/img_198.png,[]
+test_dataset/img_199.png,[]
+test_dataset/img_200.png,"[('square', 'red')]"
+test_dataset/img_201.png,"[('circle', 'green')]"
+test_dataset/img_202.png,"[('circle', 'green'), ('square', 'green')]"
+test_dataset/img_203.png,"[('circle', 'blue')]"
+test_dataset/img_204.png,"[('square', 'blue'), ('circle', 'green')]"
+test_dataset/img_205.png,"[('circle', 'red')]"
+test_dataset/img_206.png,"[('triangle', 'green'), ('circle', 'green')]"
+test_dataset/img_207.png,"[('circle', 'green')]"
+test_dataset/img_208.png,"[('circle', 'green')]"
+test_dataset/img_209.png,"[('square', 'red'), ('circle', 'green')]"
+test_dataset/img_210.png,[]
+test_dataset/img_211.png,"[('triangle', 'green'), ('square', 'green')]"
+test_dataset/img_212.png,"[('square', 'green')]"
+test_dataset/img_213.png,[]
+test_dataset/img_214.png,"[('circle', 'blue')]"
+test_dataset/img_215.png,[]
+test_dataset/img_216.png,"[('triangle', 'red')]"
+test_dataset/img_217.png,"[('circle', 'blue')]"
+test_dataset/img_218.png,"[('square', 'green')]"
+test_dataset/img_219.png,"[('square', 'red')]"
+test_dataset/img_220.png,"[('triangle', 'blue'), ('square', 'red')]"
+test_dataset/img_221.png,"[('circle', 'blue')]"
+test_dataset/img_222.png,"[('square', 'blue')]"
+test_dataset/img_223.png,"[('square', 'green')]"
+test_dataset/img_224.png,[]
+test_dataset/img_225.png,[]
+test_dataset/img_226.png,"[('square', 'blue')]"
+test_dataset/img_227.png,"[('circle', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_228.png,"[('square', 'green'), ('circle', 'red')]"
+test_dataset/img_229.png,"[('square', 'green')]"
+test_dataset/img_230.png,"[('circle', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_231.png,"[('circle', 'blue')]"
+test_dataset/img_232.png,[]
+test_dataset/img_233.png,"[('square', 'blue')]"
+test_dataset/img_234.png,"[('circle', 'red')]"
+test_dataset/img_235.png,"[('square', 'blue')]"
+test_dataset/img_236.png,[]
+test_dataset/img_237.png,"[('triangle', 'blue'), ('triangle', 'red')]"
+test_dataset/img_238.png,"[('triangle', 'red'), ('square', 'red')]"
+test_dataset/img_239.png,"[('square', 'green')]"
+test_dataset/img_240.png,"[('square', 'green')]"
+test_dataset/img_241.png,"[('triangle', 'green')]"
+test_dataset/img_242.png,"[('square', 'blue')]"
+test_dataset/img_243.png,[]
+test_dataset/img_244.png,[]
+test_dataset/img_245.png,[]
+test_dataset/img_246.png,[]
+test_dataset/img_247.png,"[('square', 'blue')]"
+test_dataset/img_248.png,[]
+test_dataset/img_249.png,[]
+test_dataset/img_250.png,"[('square', 'green')]"
+test_dataset/img_251.png,"[('triangle', 'red'), ('triangle', 'blue'), ('square', 'red')]"
+test_dataset/img_252.png,"[('circle', 'blue')]"
+test_dataset/img_253.png,"[('square', 'red')]"
+test_dataset/img_254.png,"[('triangle', 'green')]"
+test_dataset/img_255.png,"[('triangle', 'red'), ('square', 'green')]"
+test_dataset/img_256.png,"[('triangle', 'green')]"
+test_dataset/img_257.png,"[('circle', 'red')]"
+test_dataset/img_258.png,"[('square', 'red')]"
+test_dataset/img_259.png,"[('square', 'green'), ('circle', 'blue')]"
+test_dataset/img_260.png,"[('triangle', 'green')]"
+test_dataset/img_261.png,[]
+test_dataset/img_262.png,[]
+test_dataset/img_263.png,"[('square', 'blue')]"
+test_dataset/img_264.png,"[('square', 'green'), ('triangle', 'red')]"
+test_dataset/img_265.png,[]
+test_dataset/img_266.png,"[('triangle', 'green')]"
+test_dataset/img_267.png,"[('triangle', 'red')]"
+test_dataset/img_268.png,"[('circle', 'green'), ('circle', 'red'), ('square', 'red')]"
+test_dataset/img_269.png,"[('triangle', 'green'), ('square', 'green')]"
+test_dataset/img_270.png,"[('circle', 'blue')]"
+test_dataset/img_271.png,"[('square', 'red')]"
+test_dataset/img_272.png,"[('triangle', 'red'), ('circle', 'blue'), ('square', 'blue')]"
+test_dataset/img_273.png,"[('circle', 'green')]"
+test_dataset/img_274.png,"[('square', 'blue')]"
+test_dataset/img_275.png,"[('triangle', 'red')]"
+test_dataset/img_276.png,"[('circle', 'blue')]"
+test_dataset/img_277.png,"[('circle', 'blue')]"
+test_dataset/img_278.png,[]
+test_dataset/img_279.png,"[('square', 'blue')]"
+test_dataset/img_280.png,"[('circle', 'green')]"
+test_dataset/img_281.png,"[('square', 'red')]"
+test_dataset/img_282.png,"[('square', 'green'), ('triangle', 'green')]"
+test_dataset/img_283.png,"[('square', 'green')]"
+test_dataset/img_284.png,"[('square', 'green')]"
+test_dataset/img_285.png,"[('circle', 'red'), ('triangle', 'green'), ('square', 'red')]"
+test_dataset/img_286.png,[]
+test_dataset/img_287.png,"[('triangle', 'blue')]"
+test_dataset/img_288.png,"[('circle', 'green'), ('triangle', 'green')]"
+test_dataset/img_289.png,"[('square', 'blue')]"
+test_dataset/img_290.png,"[('circle', 'blue')]"
+test_dataset/img_291.png,"[('triangle', 'red')]"
+test_dataset/img_292.png,[]
+test_dataset/img_293.png,"[('square', 'blue')]"
+test_dataset/img_294.png,"[('circle', 'red')]"
+test_dataset/img_295.png,"[('triangle', 'green')]"
+test_dataset/img_296.png,"[('circle', 'green'), ('circle', 'blue')]"
+test_dataset/img_297.png,"[('square', 'green')]"
+test_dataset/img_298.png,"[('triangle', 'red')]"
+test_dataset/img_299.png,[]
+test_dataset/img_300.png,"[('triangle', 'blue')]"
+test_dataset/img_301.png,"[('triangle', 'red')]"
+test_dataset/img_302.png,"[('circle', 'blue'), ('circle', 'red')]"
+test_dataset/img_303.png,"[('circle', 'red'), ('circle', 'blue')]"
+test_dataset/img_304.png,"[('square', 'red')]"
+test_dataset/img_305.png,"[('square', 'green'), ('circle', 'blue')]"
+test_dataset/img_306.png,"[('triangle', 'green')]"
+test_dataset/img_307.png,"[('circle', 'blue')]"
+test_dataset/img_308.png,"[('square', 'green')]"
+test_dataset/img_309.png,[]
+test_dataset/img_310.png,"[('square', 'red')]"
+test_dataset/img_311.png,"[('square', 'blue')]"
+test_dataset/img_312.png,"[('square', 'green')]"
+test_dataset/img_313.png,[]
+test_dataset/img_314.png,"[('square', 'green')]"
+test_dataset/img_315.png,"[('square', 'blue')]"
+test_dataset/img_316.png,"[('circle', 'blue')]"
+test_dataset/img_317.png,"[('square', 'red')]"
+test_dataset/img_318.png,"[('triangle', 'red')]"
+test_dataset/img_319.png,"[('circle', 'red'), ('square', 'red')]"
+test_dataset/img_320.png,"[('triangle', 'green'), ('square', 'blue')]"
+test_dataset/img_321.png,"[('square', 'green')]"
+test_dataset/img_322.png,[]
+test_dataset/img_323.png,[]
+test_dataset/img_324.png,"[('circle', 'green')]"
+test_dataset/img_325.png,"[('square', 'red')]"
+test_dataset/img_326.png,[]
+test_dataset/img_327.png,[]
+test_dataset/img_328.png,[]
+test_dataset/img_329.png,"[('triangle', 'red')]"
+test_dataset/img_330.png,"[('circle', 'blue')]"
+test_dataset/img_331.png,"[('square', 'red')]"
+test_dataset/img_332.png,"[('circle', 'green')]"
+test_dataset/img_333.png,"[('circle', 'red'), ('circle', 'green')]"
+test_dataset/img_334.png,"[('circle', 'red')]"
+test_dataset/img_335.png,"[('circle', 'red')]"
+test_dataset/img_336.png,"[('circle', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_337.png,"[('circle', 'green')]"
+test_dataset/img_338.png,"[('circle', 'green')]"
+test_dataset/img_339.png,"[('square', 'green')]"
+test_dataset/img_340.png,"[('circle', 'blue')]"
+test_dataset/img_341.png,"[('circle', 'green')]"
+test_dataset/img_342.png,"[('circle', 'red'), ('circle', 'blue')]"
+test_dataset/img_343.png,[]
+test_dataset/img_344.png,"[('triangle', 'red'), ('square', 'red')]"
+test_dataset/img_345.png,"[('square', 'green'), ('circle', 'green')]"
+test_dataset/img_346.png,"[('square', 'red')]"
+test_dataset/img_347.png,[]
+test_dataset/img_348.png,"[('circle', 'blue')]"
+test_dataset/img_349.png,[]
+test_dataset/img_350.png,"[('square', 'red'), ('triangle', 'blue'), ('circle', 'red')]"
+test_dataset/img_351.png,"[('circle', 'blue')]"
+test_dataset/img_352.png,"[('triangle', 'blue'), ('circle', 'red')]"
+test_dataset/img_353.png,"[('square', 'blue')]"
+test_dataset/img_354.png,"[('triangle', 'blue'), ('circle', 'blue')]"
+test_dataset/img_355.png,"[('square', 'blue')]"
+test_dataset/img_356.png,"[('circle', 'red')]"
+test_dataset/img_357.png,"[('triangle', 'red'), ('triangle', 'blue')]"
+test_dataset/img_358.png,"[('circle', 'green')]"
+test_dataset/img_359.png,"[('circle', 'red')]"
+test_dataset/img_360.png,[]
+test_dataset/img_361.png,"[('triangle', 'red')]"
+test_dataset/img_362.png,"[('triangle', 'red')]"
+test_dataset/img_363.png,"[('square', 'red'), ('square', 'blue')]"
+test_dataset/img_364.png,[]
+test_dataset/img_365.png,"[('triangle', 'red')]"
+test_dataset/img_366.png,"[('triangle', 'green'), ('square', 'red')]"
+test_dataset/img_367.png,"[('triangle', 'blue')]"
+test_dataset/img_368.png,"[('triangle', 'green')]"
+test_dataset/img_369.png,"[('square', 'blue')]"
+test_dataset/img_370.png,[]
+test_dataset/img_371.png,"[('triangle', 'blue'), ('triangle', 'red')]"
+test_dataset/img_372.png,"[('square', 'green')]"
+test_dataset/img_373.png,"[('square', 'blue')]"
+test_dataset/img_374.png,[]
+test_dataset/img_375.png,"[('circle', 'blue'), ('circle', 'green')]"
+test_dataset/img_376.png,"[('square', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_377.png,"[('square', 'blue')]"
+test_dataset/img_378.png,"[('circle', 'blue')]"
+test_dataset/img_379.png,"[('circle', 'blue')]"
+test_dataset/img_380.png,"[('circle', 'blue')]"
+test_dataset/img_381.png,"[('triangle', 'green')]"
+test_dataset/img_382.png,"[('triangle', 'red'), ('square', 'green')]"
+test_dataset/img_383.png,[]
+test_dataset/img_384.png,"[('square', 'blue')]"
+test_dataset/img_385.png,"[('square', 'blue')]"
+test_dataset/img_386.png,[]
+test_dataset/img_387.png,[]
+test_dataset/img_388.png,"[('triangle', 'green'), ('square', 'green')]"
+test_dataset/img_389.png,"[('triangle', 'blue'), ('circle', 'red')]"
+test_dataset/img_390.png,"[('square', 'blue'), ('triangle', 'red'), ('circle', 'red')]"
+test_dataset/img_391.png,"[('square', 'red')]"
+test_dataset/img_392.png,"[('square', 'blue')]"
+test_dataset/img_393.png,"[('square', 'red')]"
+test_dataset/img_394.png,[]
+test_dataset/img_395.png,[]
+test_dataset/img_396.png,[]
+test_dataset/img_397.png,"[('square', 'green'), ('circle', 'red'), ('circle', 'green'), ('triangle', 'blue')]"
+test_dataset/img_398.png,"[('triangle', 'red'), ('triangle', 'blue'), ('square', 'green')]"
+test_dataset/img_399.png,"[('square', 'red')]"
+test_dataset/img_400.png,"[('square', 'green')]"
+test_dataset/img_401.png,"[('circle', 'blue')]"
+test_dataset/img_402.png,"[('square', 'red'), ('triangle', 'red')]"
+test_dataset/img_403.png,"[('triangle', 'green')]"
+test_dataset/img_404.png,"[('circle', 'blue')]"
+test_dataset/img_405.png,[]
+test_dataset/img_406.png,"[('circle', 'red')]"
+test_dataset/img_407.png,[]
+test_dataset/img_408.png,"[('square', 'green')]"
+test_dataset/img_409.png,"[('square', 'green')]"
+test_dataset/img_410.png,"[('square', 'red')]"
+test_dataset/img_411.png,"[('circle', 'red')]"
+test_dataset/img_412.png,"[('circle', 'green')]"
+test_dataset/img_413.png,"[('square', 'blue')]"
+test_dataset/img_414.png,[]
+test_dataset/img_415.png,"[('square', 'red')]"
+test_dataset/img_416.png,[]
+test_dataset/img_417.png,"[('circle', 'blue')]"
+test_dataset/img_418.png,[]
+test_dataset/img_419.png,[]
+test_dataset/img_420.png,"[('circle', 'green')]"
+test_dataset/img_421.png,"[('square', 'green'), ('square', 'red')]"
+test_dataset/img_422.png,"[('circle', 'blue')]"
+test_dataset/img_423.png,[]
+test_dataset/img_424.png,"[('square', 'green')]"
+test_dataset/img_425.png,[]
+test_dataset/img_426.png,"[('circle', 'red'), ('circle', 'blue')]"
+test_dataset/img_427.png,"[('square', 'green'), ('triangle', 'green')]"
+test_dataset/img_428.png,"[('circle', 'green')]"
+test_dataset/img_429.png,"[('circle', 'green'), ('circle', 'red')]"
+test_dataset/img_430.png,"[('triangle', 'red')]"
+test_dataset/img_431.png,"[('circle', 'red')]"
+test_dataset/img_432.png,"[('circle', 'blue'), ('triangle', 'green'), ('square', 'blue')]"
+test_dataset/img_433.png,"[('square', 'green'), ('circle', 'red')]"
+test_dataset/img_434.png,"[('square', 'red')]"
+test_dataset/img_435.png,"[('triangle', 'red')]"
+test_dataset/img_436.png,"[('triangle', 'red')]"
+test_dataset/img_437.png,"[('circle', 'red')]"
+test_dataset/img_438.png,"[('square', 'red')]"
+test_dataset/img_439.png,"[('square', 'red')]"
+test_dataset/img_440.png,"[('triangle', 'red')]"
+test_dataset/img_441.png,[]
+test_dataset/img_442.png,[]
+test_dataset/img_443.png,"[('square', 'green')]"
+test_dataset/img_444.png,"[('triangle', 'red')]"
+test_dataset/img_445.png,"[('triangle', 'green')]"
+test_dataset/img_446.png,"[('circle', 'blue')]"
+test_dataset/img_447.png,[]
+test_dataset/img_448.png,"[('square', 'blue'), ('square', 'green')]"
+test_dataset/img_449.png,"[('circle', 'red')]"
+test_dataset/img_450.png,[]
+test_dataset/img_451.png,"[('triangle', 'blue')]"
+test_dataset/img_452.png,"[('circle', 'blue')]"
+test_dataset/img_453.png,"[('circle', 'green'), ('square', 'green'), ('circle', 'blue'), ('square', 'red')]"
+test_dataset/img_454.png,[]
+test_dataset/img_455.png,[]
+test_dataset/img_456.png,[]
+test_dataset/img_457.png,"[('square', 'red')]"
+test_dataset/img_458.png,"[('square', 'red'), ('square', 'green')]"
+test_dataset/img_459.png,"[('triangle', 'red')]"
+test_dataset/img_460.png,"[('triangle', 'blue')]"
+test_dataset/img_461.png,"[('square', 'green')]"
+test_dataset/img_462.png,"[('circle', 'green')]"
+test_dataset/img_463.png,"[('square', 'red')]"
+test_dataset/img_464.png,"[('circle', 'green')]"
+test_dataset/img_465.png,"[('square', 'red')]"
+test_dataset/img_466.png,[]
+test_dataset/img_467.png,"[('triangle', 'green')]"
+test_dataset/img_468.png,"[('circle', 'blue')]"
+test_dataset/img_469.png,"[('triangle', 'green'), ('square', 'blue')]"
+test_dataset/img_470.png,[]
+test_dataset/img_471.png,"[('square', 'blue')]"
+test_dataset/img_472.png,[]
+test_dataset/img_473.png,"[('square', 'red')]"
+test_dataset/img_474.png,"[('triangle', 'green'), ('square', 'green')]"
+test_dataset/img_475.png,[]
+test_dataset/img_476.png,"[('circle', 'blue'), ('square', 'blue')]"
+test_dataset/img_477.png,"[('triangle', 'blue')]"
+test_dataset/img_478.png,"[('circle', 'red')]"
+test_dataset/img_479.png,"[('circle', 'red')]"
+test_dataset/img_480.png,"[('circle', 'red')]"
+test_dataset/img_481.png,[]
+test_dataset/img_482.png,"[('circle', 'blue')]"
+test_dataset/img_483.png,[]
+test_dataset/img_484.png,"[('circle', 'blue')]"
+test_dataset/img_485.png,"[('square', 'blue')]"
+test_dataset/img_486.png,"[('triangle', 'green')]"
+test_dataset/img_487.png,"[('square', 'green')]"
+test_dataset/img_488.png,"[('square', 'red')]"
+test_dataset/img_489.png,"[('square', 'blue'), ('square', 'green')]"
+test_dataset/img_490.png,[]
+test_dataset/img_491.png,"[('circle', 'green')]"
+test_dataset/img_492.png,"[('triangle', 'blue'), ('circle', 'green'), ('triangle', 'green')]"
+test_dataset/img_493.png,"[('square', 'blue')]"
+test_dataset/img_494.png,[]
+test_dataset/img_495.png,[]
+test_dataset/img_496.png,"[('square', 'green')]"
+test_dataset/img_497.png,"[('circle', 'blue')]"
+test_dataset/img_498.png,[]
+test_dataset/img_499.png,"[('square', 'blue')]"
+test_dataset/img_500.png,[]
+test_dataset/img_501.png,"[('circle', 'red')]"
+test_dataset/img_502.png,"[('triangle', 'green')]"
+test_dataset/img_503.png,"[('square', 'red')]"
+test_dataset/img_504.png,[]
+test_dataset/img_505.png,"[('circle', 'green'), ('square', 'green')]"
+test_dataset/img_506.png,"[('circle', 'red')]"
+test_dataset/img_507.png,"[('square', 'blue')]"
+test_dataset/img_508.png,"[('circle', 'red')]"
+test_dataset/img_509.png,"[('triangle', 'green')]"
+test_dataset/img_510.png,"[('circle', 'green')]"
+test_dataset/img_511.png,"[('square', 'red')]"
+test_dataset/img_512.png,"[('circle', 'blue')]"
+test_dataset/img_513.png,"[('square', 'blue')]"
+test_dataset/img_514.png,"[('square', 'green')]"
+test_dataset/img_515.png,"[('triangle', 'green')]"
+test_dataset/img_516.png,"[('square', 'blue')]"
+test_dataset/img_517.png,[]
+test_dataset/img_518.png,"[('square', 'blue')]"
+test_dataset/img_519.png,"[('square', 'blue')]"
+test_dataset/img_520.png,"[('circle', 'blue')]"
+test_dataset/img_521.png,[]
+test_dataset/img_522.png,[]
+test_dataset/img_523.png,"[('circle', 'blue')]"
+test_dataset/img_524.png,"[('square', 'green')]"
+test_dataset/img_525.png,"[('triangle', 'red')]"
+test_dataset/img_526.png,"[('square', 'red')]"
+test_dataset/img_527.png,"[('square', 'red'), ('circle', 'red'), ('circle', 'green')]"
+test_dataset/img_528.png,"[('triangle', 'green'), ('circle', 'red')]"
+test_dataset/img_529.png,"[('circle', 'blue')]"
+test_dataset/img_530.png,[]
+test_dataset/img_531.png,"[('circle', 'blue')]"
+test_dataset/img_532.png,"[('triangle', 'blue')]"
+test_dataset/img_533.png,[]
+test_dataset/img_534.png,"[('triangle', 'green')]"
+test_dataset/img_535.png,"[('circle', 'green')]"
+test_dataset/img_536.png,"[('square', 'green')]"
+test_dataset/img_537.png,"[('circle', 'red')]"
+test_dataset/img_538.png,"[('circle', 'red')]"
+test_dataset/img_539.png,"[('triangle', 'blue')]"
+test_dataset/img_540.png,"[('triangle', 'green'), ('square', 'green')]"
+test_dataset/img_541.png,[]
+test_dataset/img_542.png,"[('square', 'green')]"
+test_dataset/img_543.png,"[('triangle', 'red'), ('triangle', 'green')]"
+test_dataset/img_544.png,[]
+test_dataset/img_545.png,"[('triangle', 'blue'), ('circle', 'red'), ('circle', 'blue')]"
+test_dataset/img_546.png,[]
+test_dataset/img_547.png,"[('triangle', 'blue'), ('triangle', 'green')]"
+test_dataset/img_548.png,"[('triangle', 'green')]"
+test_dataset/img_549.png,"[('square', 'blue'), ('circle', 'blue')]"
+test_dataset/img_550.png,[]
+test_dataset/img_551.png,[]
+test_dataset/img_552.png,"[('circle', 'green')]"
+test_dataset/img_553.png,"[('circle', 'green')]"
+test_dataset/img_554.png,"[('square', 'blue')]"
+test_dataset/img_555.png,"[('triangle', 'blue')]"
+test_dataset/img_556.png,"[('square', 'blue')]"
+test_dataset/img_557.png,"[('square', 'green'), ('square', 'blue')]"
+test_dataset/img_558.png,"[('square', 'green')]"
+test_dataset/img_559.png,"[('triangle', 'blue')]"
+test_dataset/img_560.png,"[('circle', 'green')]"
+test_dataset/img_561.png,"[('square', 'blue')]"
+test_dataset/img_562.png,"[('square', 'green')]"
+test_dataset/img_563.png,"[('square', 'green')]"
+test_dataset/img_564.png,"[('circle', 'blue')]"
+test_dataset/img_565.png,"[('square', 'red')]"
+test_dataset/img_566.png,"[('circle', 'red')]"
+test_dataset/img_567.png,"[('square', 'green'), ('circle', 'red')]"
+test_dataset/img_568.png,"[('square', 'red')]"
+test_dataset/img_569.png,[]
+test_dataset/img_570.png,"[('triangle', 'blue')]"
+test_dataset/img_571.png,[]
+test_dataset/img_572.png,"[('square', 'blue')]"
+test_dataset/img_573.png,"[('triangle', 'blue')]"
+test_dataset/img_574.png,[]
+test_dataset/img_575.png,"[('circle', 'green')]"
+test_dataset/img_576.png,"[('square', 'green')]"
+test_dataset/img_577.png,[]
+test_dataset/img_578.png,"[('square', 'green')]"
+test_dataset/img_579.png,"[('circle', 'green')]"
+test_dataset/img_580.png,"[('circle', 'blue'), ('triangle', 'green')]"
+test_dataset/img_581.png,"[('circle', 'green')]"
+test_dataset/img_582.png,"[('circle', 'red'), ('triangle', 'red')]"
+test_dataset/img_583.png,"[('square', 'red')]"
+test_dataset/img_584.png,"[('square', 'blue')]"
+test_dataset/img_585.png,"[('square', 'green')]"
+test_dataset/img_586.png,"[('circle', 'green'), ('circle', 'red')]"
+test_dataset/img_587.png,"[('square', 'red')]"
+test_dataset/img_588.png,[]
+test_dataset/img_589.png,[]
+test_dataset/img_590.png,"[('circle', 'blue')]"
+test_dataset/img_591.png,[]
+test_dataset/img_592.png,"[('square', 'red'), ('circle', 'green')]"
+test_dataset/img_593.png,"[('circle', 'green')]"
+test_dataset/img_594.png,[]
+test_dataset/img_595.png,"[('triangle', 'red'), ('triangle', 'green')]"
+test_dataset/img_596.png,"[('square', 'red')]"
+test_dataset/img_597.png,"[('square', 'green')]"
+test_dataset/img_598.png,"[('square', 'red')]"
+test_dataset/img_599.png,"[('triangle', 'red'), ('triangle', 'blue')]"
+test_dataset/img_600.png,"[('square', 'red')]"
+test_dataset/img_601.png,"[('circle', 'red')]"
+test_dataset/img_602.png,"[('square', 'red')]"
+test_dataset/img_603.png,"[('square', 'red')]"
+test_dataset/img_604.png,[]
+test_dataset/img_605.png,"[('triangle', 'green'), ('square', 'green')]"
+test_dataset/img_606.png,"[('triangle', 'blue')]"
+test_dataset/img_607.png,"[('circle', 'red')]"
+test_dataset/img_608.png,[]
+test_dataset/img_609.png,[]
+test_dataset/img_610.png,"[('square', 'red'), ('square', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_611.png,[]
+test_dataset/img_612.png,"[('square', 'red')]"
+test_dataset/img_613.png,"[('circle', 'green'), ('square', 'blue')]"
+test_dataset/img_614.png,"[('square', 'red')]"
+test_dataset/img_615.png,[]
+test_dataset/img_616.png,[]
+test_dataset/img_617.png,[]
+test_dataset/img_618.png,"[('circle', 'blue')]"
+test_dataset/img_619.png,"[('triangle', 'green'), ('square', 'blue')]"
+test_dataset/img_620.png,"[('circle', 'blue'), ('square', 'blue'), ('triangle', 'red'), ('square', 'green')]"
+test_dataset/img_621.png,[]
+test_dataset/img_622.png,"[('square', 'red')]"
+test_dataset/img_623.png,[]
+test_dataset/img_624.png,"[('triangle', 'blue')]"
+test_dataset/img_625.png,"[('triangle', 'blue')]"
+test_dataset/img_626.png,"[('circle', 'green')]"
+test_dataset/img_627.png,"[('square', 'green'), ('square', 'red')]"
+test_dataset/img_628.png,"[('square', 'green')]"
+test_dataset/img_629.png,"[('circle', 'blue'), ('triangle', 'red')]"
+test_dataset/img_630.png,"[('square', 'green')]"
+test_dataset/img_631.png,[]
+test_dataset/img_632.png,"[('square', 'blue')]"
+test_dataset/img_633.png,[]
+test_dataset/img_634.png,"[('circle', 'green')]"
+test_dataset/img_635.png,"[('circle', 'red')]"
+test_dataset/img_636.png,"[('circle', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_637.png,[]
+test_dataset/img_638.png,"[('circle', 'red')]"
+test_dataset/img_639.png,"[('circle', 'blue')]"
+test_dataset/img_640.png,"[('circle', 'blue')]"
+test_dataset/img_641.png,[]
+test_dataset/img_642.png,"[('square', 'red')]"
+test_dataset/img_643.png,[]
+test_dataset/img_644.png,"[('square', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_645.png,[]
+test_dataset/img_646.png,"[('circle', 'green'), ('triangle', 'red')]"
+test_dataset/img_647.png,[]
+test_dataset/img_648.png,"[('circle', 'blue')]"
+test_dataset/img_649.png,"[('triangle', 'green')]"
+test_dataset/img_650.png,"[('circle', 'red')]"
+test_dataset/img_651.png,"[('square', 'green')]"
+test_dataset/img_652.png,"[('triangle', 'red')]"
+test_dataset/img_653.png,"[('square', 'blue')]"
+test_dataset/img_654.png,"[('square', 'red')]"
+test_dataset/img_655.png,[]
+test_dataset/img_656.png,"[('square', 'red'), ('triangle', 'red')]"
+test_dataset/img_657.png,"[('triangle', 'red')]"
+test_dataset/img_658.png,[]
+test_dataset/img_659.png,"[('square', 'red'), ('square', 'green')]"
+test_dataset/img_660.png,[]
+test_dataset/img_661.png,"[('triangle', 'green')]"
+test_dataset/img_662.png,"[('triangle', 'green')]"
+test_dataset/img_663.png,"[('square', 'red')]"
+test_dataset/img_664.png,"[('circle', 'green')]"
+test_dataset/img_665.png,"[('circle', 'blue')]"
+test_dataset/img_666.png,"[('square', 'blue')]"
+test_dataset/img_667.png,"[('circle', 'green'), ('triangle', 'green')]"
+test_dataset/img_668.png,"[('circle', 'red')]"
+test_dataset/img_669.png,"[('square', 'red')]"
+test_dataset/img_670.png,[]
+test_dataset/img_671.png,"[('triangle', 'blue')]"
+test_dataset/img_672.png,"[('circle', 'green')]"
+test_dataset/img_673.png,"[('square', 'red')]"
+test_dataset/img_674.png,"[('square', 'blue')]"
+test_dataset/img_675.png,"[('triangle', 'red')]"
+test_dataset/img_676.png,"[('square', 'green'), ('triangle', 'green')]"
+test_dataset/img_677.png,[]
+test_dataset/img_678.png,"[('circle', 'green'), ('square', 'red')]"
+test_dataset/img_679.png,"[('square', 'red')]"
+test_dataset/img_680.png,"[('square', 'red')]"
+test_dataset/img_681.png,[]
+test_dataset/img_682.png,[]
+test_dataset/img_683.png,"[('square', 'green')]"
+test_dataset/img_684.png,"[('circle', 'red')]"
+test_dataset/img_685.png,"[('square', 'red')]"
+test_dataset/img_686.png,"[('square', 'green')]"
+test_dataset/img_687.png,"[('triangle', 'blue'), ('circle', 'red')]"
+test_dataset/img_688.png,[]
+test_dataset/img_689.png,"[('triangle', 'green')]"
+test_dataset/img_690.png,"[('circle', 'green')]"
+test_dataset/img_691.png,[]
+test_dataset/img_692.png,"[('square', 'green')]"
+test_dataset/img_693.png,"[('square', 'red')]"
+test_dataset/img_694.png,"[('square', 'red')]"
+test_dataset/img_695.png,"[('circle', 'red')]"
+test_dataset/img_696.png,"[('circle', 'green')]"
+test_dataset/img_697.png,"[('circle', 'green')]"
+test_dataset/img_698.png,"[('circle', 'blue')]"
+test_dataset/img_699.png,"[('circle', 'blue')]"
+test_dataset/img_700.png,"[('triangle', 'green')]"
+test_dataset/img_701.png,"[('circle', 'green')]"
+test_dataset/img_702.png,"[('square', 'green')]"
+test_dataset/img_703.png,[]
+test_dataset/img_704.png,"[('square', 'blue')]"
+test_dataset/img_705.png,"[('triangle', 'blue')]"
+test_dataset/img_706.png,"[('square', 'green')]"
+test_dataset/img_707.png,[]
+test_dataset/img_708.png,"[('triangle', 'red')]"
+test_dataset/img_709.png,"[('square', 'blue')]"
+test_dataset/img_710.png,[]
+test_dataset/img_711.png,[]
+test_dataset/img_712.png,[]
+test_dataset/img_713.png,"[('triangle', 'blue')]"
+test_dataset/img_714.png,[]
+test_dataset/img_715.png,[]
+test_dataset/img_716.png,[]
+test_dataset/img_717.png,"[('triangle', 'red')]"
+test_dataset/img_718.png,[]
+test_dataset/img_719.png,"[('triangle', 'blue')]"
+test_dataset/img_720.png,[]
+test_dataset/img_721.png,"[('triangle', 'blue'), ('triangle', 'red')]"
+test_dataset/img_722.png,"[('circle', 'green')]"
+test_dataset/img_723.png,[]
+test_dataset/img_724.png,[]
+test_dataset/img_725.png,"[('square', 'blue')]"
+test_dataset/img_726.png,"[('square', 'red')]"
+test_dataset/img_727.png,[]
+test_dataset/img_728.png,"[('triangle', 'green'), ('circle', 'red')]"
+test_dataset/img_729.png,[]
+test_dataset/img_730.png,"[('circle', 'red')]"
+test_dataset/img_731.png,"[('circle', 'green')]"
+test_dataset/img_732.png,[]
+test_dataset/img_733.png,"[('square', 'green'), ('square', 'red')]"
+test_dataset/img_734.png,"[('square', 'green')]"
+test_dataset/img_735.png,[]
+test_dataset/img_736.png,"[('triangle', 'red'), ('triangle', 'green')]"
+test_dataset/img_737.png,[]
+test_dataset/img_738.png,"[('triangle', 'blue')]"
+test_dataset/img_739.png,"[('triangle', 'blue'), ('triangle', 'green')]"
+test_dataset/img_740.png,"[('circle', 'green'), ('circle', 'red')]"
+test_dataset/img_741.png,"[('square', 'blue')]"
+test_dataset/img_742.png,"[('circle', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_743.png,"[('triangle', 'blue')]"
+test_dataset/img_744.png,"[('square', 'green')]"
+test_dataset/img_745.png,"[('triangle', 'green')]"
+test_dataset/img_746.png,"[('circle', 'red')]"
+test_dataset/img_747.png,"[('square', 'blue')]"
+test_dataset/img_748.png,"[('triangle', 'blue'), ('square', 'blue')]"
+test_dataset/img_749.png,"[('triangle', 'green'), ('square', 'red')]"
+test_dataset/img_750.png,"[('square', 'red'), ('circle', 'red')]"
+test_dataset/img_751.png,"[('triangle', 'blue')]"
+test_dataset/img_752.png,"[('square', 'blue')]"
+test_dataset/img_753.png,"[('circle', 'blue')]"
+test_dataset/img_754.png,"[('circle', 'blue'), ('triangle', 'red')]"
+test_dataset/img_755.png,"[('circle', 'green')]"
+test_dataset/img_756.png,[]
+test_dataset/img_757.png,"[('square', 'red')]"
+test_dataset/img_758.png,"[('circle', 'red')]"
+test_dataset/img_759.png,"[('circle', 'blue')]"
+test_dataset/img_760.png,"[('square', 'red')]"
+test_dataset/img_761.png,"[('square', 'green')]"
+test_dataset/img_762.png,"[('triangle', 'blue'), ('circle', 'green')]"
+test_dataset/img_763.png,"[('triangle', 'red')]"
+test_dataset/img_764.png,"[('circle', 'green')]"
+test_dataset/img_765.png,"[('square', 'blue'), ('circle', 'blue')]"
+test_dataset/img_766.png,"[('square', 'red')]"
+test_dataset/img_767.png,[]
+test_dataset/img_768.png,"[('triangle', 'red')]"
+test_dataset/img_769.png,"[('triangle', 'red')]"
+test_dataset/img_770.png,"[('square', 'red')]"
+test_dataset/img_771.png,[]
+test_dataset/img_772.png,"[('triangle', 'blue')]"
+test_dataset/img_773.png,"[('square', 'green'), ('square', 'blue')]"
+test_dataset/img_774.png,"[('circle', 'blue')]"
+test_dataset/img_775.png,[]
+test_dataset/img_776.png,[]
+test_dataset/img_777.png,"[('square', 'green')]"
+test_dataset/img_778.png,"[('triangle', 'green')]"
+test_dataset/img_779.png,"[('square', 'green'), ('square', 'red')]"
+test_dataset/img_780.png,"[('circle', 'red'), ('circle', 'green')]"
+test_dataset/img_781.png,"[('square', 'green')]"
+test_dataset/img_782.png,"[('square', 'blue')]"
+test_dataset/img_783.png,"[('circle', 'blue')]"
+test_dataset/img_784.png,"[('circle', 'red')]"
+test_dataset/img_785.png,[]
+test_dataset/img_786.png,"[('square', 'green')]"
+test_dataset/img_787.png,"[('triangle', 'blue')]"
+test_dataset/img_788.png,"[('circle', 'blue')]"
+test_dataset/img_789.png,"[('square', 'red')]"
+test_dataset/img_790.png,[]
+test_dataset/img_791.png,"[('triangle', 'green'), ('square', 'green')]"
+test_dataset/img_792.png,"[('circle', 'blue')]"
+test_dataset/img_793.png,"[('circle', 'green')]"
+test_dataset/img_794.png,[]
+test_dataset/img_795.png,[]
+test_dataset/img_796.png,"[('square', 'blue')]"
+test_dataset/img_797.png,"[('circle', 'green')]"
+test_dataset/img_798.png,"[('triangle', 'green')]"
+test_dataset/img_799.png,"[('triangle', 'red')]"
+test_dataset/img_800.png,"[('triangle', 'red')]"
+test_dataset/img_801.png,"[('square', 'red'), ('circle', 'green')]"
+test_dataset/img_802.png,"[('triangle', 'blue')]"
+test_dataset/img_803.png,"[('square', 'red')]"
+test_dataset/img_804.png,"[('square', 'blue')]"
+test_dataset/img_805.png,"[('square', 'green'), ('circle', 'red')]"
+test_dataset/img_806.png,"[('square', 'green')]"
+test_dataset/img_807.png,"[('triangle', 'blue')]"
+test_dataset/img_808.png,[]
+test_dataset/img_809.png,"[('square', 'blue'), ('triangle', 'green')]"
+test_dataset/img_810.png,"[('circle', 'green'), ('square', 'green')]"
+test_dataset/img_811.png,[]
+test_dataset/img_812.png,"[('square', 'red')]"
+test_dataset/img_813.png,[]
+test_dataset/img_814.png,"[('square', 'green')]"
+test_dataset/img_815.png,"[('circle', 'red')]"
+test_dataset/img_816.png,"[('triangle', 'blue'), ('square', 'green')]"
+test_dataset/img_817.png,"[('triangle', 'red')]"
+test_dataset/img_818.png,"[('square', 'green')]"
+test_dataset/img_819.png,[]
+test_dataset/img_820.png,"[('circle', 'red')]"
+test_dataset/img_821.png,"[('circle', 'blue')]"
+test_dataset/img_822.png,"[('circle', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_823.png,"[('square', 'red')]"
+test_dataset/img_824.png,"[('square', 'green')]"
+test_dataset/img_825.png,[]
+test_dataset/img_826.png,"[('circle', 'blue')]"
+test_dataset/img_827.png,[]
+test_dataset/img_828.png,"[('triangle', 'green')]"
+test_dataset/img_829.png,[]
+test_dataset/img_830.png,[]
+test_dataset/img_831.png,"[('circle', 'red')]"
+test_dataset/img_832.png,"[('triangle', 'blue')]"
+test_dataset/img_833.png,[]
+test_dataset/img_834.png,[]
+test_dataset/img_835.png,"[('square', 'red')]"
+test_dataset/img_836.png,"[('triangle', 'green')]"
+test_dataset/img_837.png,"[('circle', 'blue')]"
+test_dataset/img_838.png,[]
+test_dataset/img_839.png,"[('square', 'blue')]"
+test_dataset/img_840.png,[]
+test_dataset/img_841.png,"[('circle', 'red')]"
+test_dataset/img_842.png,"[('circle', 'green')]"
+test_dataset/img_843.png,"[('triangle', 'blue'), ('circle', 'red')]"
+test_dataset/img_844.png,[]
+test_dataset/img_845.png,"[('triangle', 'blue')]"
+test_dataset/img_846.png,"[('circle', 'green')]"
+test_dataset/img_847.png,"[('square', 'blue')]"
+test_dataset/img_848.png,[]
+test_dataset/img_849.png,"[('triangle', 'blue')]"
+test_dataset/img_850.png,"[('circle', 'blue'), ('circle', 'green')]"
+test_dataset/img_851.png,"[('square', 'red')]"
+test_dataset/img_852.png,"[('circle', 'red')]"
+test_dataset/img_853.png,"[('square', 'green'), ('triangle', 'blue')]"
+test_dataset/img_854.png,"[('triangle', 'green')]"
+test_dataset/img_855.png,"[('square', 'red')]"
+test_dataset/img_856.png,"[('triangle', 'blue')]"
+test_dataset/img_857.png,"[('circle', 'red')]"
+test_dataset/img_858.png,[]
+test_dataset/img_859.png,"[('square', 'blue')]"
+test_dataset/img_860.png,[]
+test_dataset/img_861.png,[]
+test_dataset/img_862.png,[]
+test_dataset/img_863.png,[]
+test_dataset/img_864.png,"[('square', 'green')]"
+test_dataset/img_865.png,"[('triangle', 'green')]"
+test_dataset/img_866.png,[]
+test_dataset/img_867.png,"[('circle', 'red')]"
+test_dataset/img_868.png,"[('square', 'green')]"
+test_dataset/img_869.png,"[('square', 'red')]"
+test_dataset/img_870.png,"[('circle', 'blue')]"
+test_dataset/img_871.png,"[('square', 'blue')]"
+test_dataset/img_872.png,[]
+test_dataset/img_873.png,[]
+test_dataset/img_874.png,"[('circle', 'green')]"
+test_dataset/img_875.png,[]
+test_dataset/img_876.png,"[('triangle', 'red'), ('circle', 'green')]"
+test_dataset/img_877.png,"[('triangle', 'blue')]"
+test_dataset/img_878.png,"[('square', 'red'), ('triangle', 'red')]"
+test_dataset/img_879.png,"[('circle', 'blue')]"
+test_dataset/img_880.png,"[('circle', 'blue')]"
+test_dataset/img_881.png,"[('circle', 'red')]"
+test_dataset/img_882.png,"[('circle', 'green')]"
+test_dataset/img_883.png,"[('triangle', 'green'), ('square', 'blue')]"
+test_dataset/img_884.png,"[('circle', 'green')]"
+test_dataset/img_885.png,"[('triangle', 'green')]"
+test_dataset/img_886.png,"[('circle', 'blue')]"
+test_dataset/img_887.png,"[('circle', 'blue')]"
+test_dataset/img_888.png,[]
+test_dataset/img_889.png,[]
+test_dataset/img_890.png,"[('triangle', 'red')]"
+test_dataset/img_891.png,"[('square', 'blue')]"
+test_dataset/img_892.png,"[('triangle', 'green')]"
+test_dataset/img_893.png,"[('square', 'green')]"
+test_dataset/img_894.png,"[('triangle', 'red')]"
+test_dataset/img_895.png,"[('square', 'blue')]"
+test_dataset/img_896.png,"[('square', 'red')]"
+test_dataset/img_897.png,"[('triangle', 'blue')]"
+test_dataset/img_898.png,"[('square', 'red'), ('square', 'blue'), ('triangle', 'green')]"
+test_dataset/img_899.png,"[('triangle', 'red')]"
+test_dataset/img_900.png,"[('triangle', 'red'), ('square', 'red')]"
+test_dataset/img_901.png,"[('circle', 'red'), ('square', 'red')]"
+test_dataset/img_902.png,"[('circle', 'red'), ('triangle', 'blue'), ('circle', 'blue')]"
+test_dataset/img_903.png,"[('circle', 'blue')]"
+test_dataset/img_904.png,"[('circle', 'blue')]"
+test_dataset/img_905.png,"[('square', 'red')]"
+test_dataset/img_906.png,"[('circle', 'green')]"
+test_dataset/img_907.png,"[('square', 'green')]"
+test_dataset/img_908.png,"[('circle', 'blue'), ('triangle', 'green')]"
+test_dataset/img_909.png,"[('square', 'green')]"
+test_dataset/img_910.png,"[('circle', 'blue')]"
+test_dataset/img_911.png,"[('circle', 'blue')]"
+test_dataset/img_912.png,"[('circle', 'green')]"
+test_dataset/img_913.png,[]
+test_dataset/img_914.png,"[('triangle', 'red')]"
+test_dataset/img_915.png,"[('square', 'red')]"
+test_dataset/img_916.png,[]
+test_dataset/img_917.png,"[('square', 'red'), ('circle', 'green'), ('triangle', 'green')]"
+test_dataset/img_918.png,"[('square', 'blue')]"
+test_dataset/img_919.png,[]
+test_dataset/img_920.png,"[('triangle', 'blue')]"
+test_dataset/img_921.png,"[('circle', 'green')]"
+test_dataset/img_922.png,"[('circle', 'red')]"
+test_dataset/img_923.png,"[('circle', 'green'), ('triangle', 'red')]"
+test_dataset/img_924.png,[]
+test_dataset/img_925.png,"[('triangle', 'blue'), ('triangle', 'red')]"
+test_dataset/img_926.png,[]
+test_dataset/img_927.png,"[('circle', 'blue'), ('triangle', 'green')]"
+test_dataset/img_928.png,"[('circle', 'red'), ('square', 'blue')]"
+test_dataset/img_929.png,[]
+test_dataset/img_930.png,[]
+test_dataset/img_931.png,"[('circle', 'blue')]"
+test_dataset/img_932.png,"[('square', 'green'), ('square', 'red')]"
+test_dataset/img_933.png,"[('triangle', 'blue'), ('circle', 'blue')]"
+test_dataset/img_934.png,[]
+test_dataset/img_935.png,"[('square', 'red')]"
+test_dataset/img_936.png,"[('triangle', 'red')]"
+test_dataset/img_937.png,"[('circle', 'red')]"
+test_dataset/img_938.png,"[('square', 'blue')]"
+test_dataset/img_939.png,"[('square', 'red')]"
+test_dataset/img_940.png,[]
+test_dataset/img_941.png,"[('square', 'red')]"
+test_dataset/img_942.png,"[('square', 'red')]"
+test_dataset/img_943.png,"[('square', 'green'), ('square', 'red')]"
+test_dataset/img_944.png,"[('triangle', 'blue')]"
+test_dataset/img_945.png,[]
+test_dataset/img_946.png,"[('triangle', 'blue'), ('square', 'green')]"
+test_dataset/img_947.png,[]
+test_dataset/img_948.png,[]
+test_dataset/img_949.png,"[('triangle', 'green'), ('circle', 'blue')]"
+test_dataset/img_950.png,"[('circle', 'green')]"
+test_dataset/img_951.png,[]
+test_dataset/img_952.png,"[('square', 'red')]"
+test_dataset/img_953.png,"[('square', 'green')]"
+test_dataset/img_954.png,[]
+test_dataset/img_955.png,"[('square', 'blue')]"
+test_dataset/img_956.png,"[('circle', 'red')]"
+test_dataset/img_957.png,"[('triangle', 'green')]"
+test_dataset/img_958.png,"[('triangle', 'green'), ('square', 'blue'), ('square', 'red')]"
+test_dataset/img_959.png,[]
+test_dataset/img_960.png,"[('square', 'green'), ('square', 'blue')]"
+test_dataset/img_961.png,[]
+test_dataset/img_962.png,"[('circle', 'red'), ('circle', 'green')]"
+test_dataset/img_963.png,"[('circle', 'blue'), ('triangle', 'green')]"
+test_dataset/img_964.png,"[('square', 'green')]"
+test_dataset/img_965.png,[]
+test_dataset/img_966.png,"[('circle', 'green'), ('square', 'blue'), ('triangle', 'blue')]"
+test_dataset/img_967.png,"[('triangle', 'red')]"
+test_dataset/img_968.png,[]
+test_dataset/img_969.png,"[('square', 'green'), ('triangle', 'red')]"
+test_dataset/img_970.png,"[('triangle', 'green')]"
+test_dataset/img_971.png,"[('circle', 'blue')]"
+test_dataset/img_972.png,"[('triangle', 'blue')]"
+test_dataset/img_973.png,"[('square', 'green')]"
+test_dataset/img_974.png,"[('square', 'green')]"
+test_dataset/img_975.png,"[('triangle', 'green')]"
+test_dataset/img_976.png,"[('square', 'blue')]"
+test_dataset/img_977.png,"[('triangle', 'green')]"
+test_dataset/img_978.png,[]
+test_dataset/img_979.png,"[('square', 'green')]"
+test_dataset/img_980.png,"[('triangle', 'green'), ('triangle', 'red')]"
+test_dataset/img_981.png,"[('circle', 'green')]"
+test_dataset/img_982.png,"[('circle', 'red')]"
+test_dataset/img_983.png,[]
+test_dataset/img_984.png,[]
+test_dataset/img_985.png,"[('triangle', 'blue')]"
+test_dataset/img_986.png,"[('circle', 'red')]"
+test_dataset/img_987.png,"[('circle', 'green')]"
+test_dataset/img_988.png,"[('square', 'blue')]"
+test_dataset/img_989.png,"[('square', 'blue')]"
+test_dataset/img_990.png,"[('triangle', 'blue')]"
+test_dataset/img_991.png,[]
+test_dataset/img_992.png,[]
+test_dataset/img_993.png,"[('square', 'blue')]"
+test_dataset/img_994.png,"[('triangle', 'green')]"
+test_dataset/img_995.png,"[('circle', 'green')]"
+test_dataset/img_996.png,"[('square', 'green')]"
+test_dataset/img_997.png,"[('circle', 'red')]"
+test_dataset/img_998.png,[]
+test_dataset/img_999.png,"[('triangle', 'red')]"
